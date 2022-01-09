@@ -1,0 +1,7 @@
+name: Lobby
+version: '${project.version}'
+main: bingmclobby.Timmety.Main
+api-version: 1.16
+commands:
+  NPC:
+  setlobby:
